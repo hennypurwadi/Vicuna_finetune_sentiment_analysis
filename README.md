@@ -4,7 +4,7 @@ Vicuna_finetune_sentiment_analysis through LORA
 Vicuna is created by fine-tuning a LLaMA base model using approximately 70K user-shared conversations gathered from ShareGPT.com with public APIs.
 To find more about Vicuna here: https://lmsys.org/blog/2023-03-30-vicuna/
 
-To train a custom dataset on top of Vicuna if we don’t have good access to data-center grade GPU, is to fine-tune it through Lora.
+#### To train a custom dataset on top of Vicuna if we don’t have good access to data-center grade GPU, is to fine-tune it through Lora.
 ---
 
 ### To RUN APP: https://huggingface.co/spaces/RinInori/vicuna_finetuned_6_sentiments
