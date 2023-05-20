@@ -6,7 +6,8 @@ To find more about Vicuna here: https://lmsys.org/blog/2023-03-30-vicuna/
 
 To train a custom dataset on top of Vicuna if we don’t have good access to data-center grade GPU, is to fine-tune it through PEFT and LoRA.
 PEFT = parameter-Efficient Fine_Tuning of Billion-Scale Models on Low-Resource hardware.
-LoRA = Low-Rank Adaptation of Large Language Models.
+LoRA = Low-Rank Adaptation of Large Language Models is a training method that accelerates the training of large models while consuming less memory. 
+It adds pairs of rank-decomposition weight matrices (called update matrices) to existing weights, and only trains those newly added weights.
 
 ---
 
@@ -23,5 +24,7 @@ LoRA = Low-Rank Adaptation of Large Language Models.
 Ref: https://www.youtube.com/watch?v=Us5ZFp16PaU 
 
 Ref: https://arxiv.org/abs/2106.09685
+
+Ref: https://huggingface.co/docs/diffusers/training/lora#lowrank-adaptation-of-large-language-models-lora
 
 Ref: Hutchinson, B., Ostendorf, M., & Fazel, M. (2011, September). Low Rank Language Models for Small Training Sets. IEEE Signal Processing Letters, 18(9), 489–492. https://doi.org/10.1109/lsp.2011.2160850
