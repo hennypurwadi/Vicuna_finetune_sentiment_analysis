@@ -5,7 +5,9 @@ Vicuna is created by fine-tuning a LLaMA base model using approximately 70K user
 To find more about Vicuna here: https://lmsys.org/blog/2023-03-30-vicuna/
 
 To train a custom dataset on top of Vicuna if we don’t have good access to data-center grade GPU, is to fine-tune it through PEFT and LoRA.
+
 PEFT = parameter-Efficient Fine_Tuning of Billion-Scale Models on Low-Resource hardware.
+
 LoRA = Low-Rank Adaptation of Large Language Models is a training method that accelerates the training of large models while consuming less memory. 
 It adds pairs of rank-decomposition weight matrices (called update matrices) to existing weights, and only trains those newly added weights.
 
