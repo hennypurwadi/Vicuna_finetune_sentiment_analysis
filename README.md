@@ -11,9 +11,11 @@ PEFT = parameter-Efficient Fine_Tuning of Billion-Scale Models on Low-Resource h
 LoRA = Low-Rank Adaptation of Large Language Models is a training method that accelerates the training of large models while consuming less memory. 
 It adds pairs of rank-decomposition weight matrices (called update matrices) to existing weights, and only trains those newly added weights.
 
----
+-----------------
 
 ### To RUN APP: https://huggingface.co/spaces/RinInori/vicuna_finetuned_6_sentiments
+
+-----------------
 
 ![Image description](https://github.com/hennypurwadi/Vicuna_finetune_sentiment_analysis/blob/main/vicuna_result_correct.jpg?raw=true)
 
@@ -21,7 +23,8 @@ It adds pairs of rank-decomposition weight matrices (called update matrices) to 
 ### Model Hub: https://huggingface.co/RinInori/vicuna_finetuned_6_sentiments
 
 ![Image description](https://github.com/hennypurwadi/Bert_FineTune_Sentiment_Analysis/blob/main/images/SaveModel_Tokenizer_To_Huggingface.jpg?raw=true)
----
+
+-----------------
 
 Ref: https://www.youtube.com/watch?v=Us5ZFp16PaU 
 
@@ -30,3 +33,5 @@ Ref: https://arxiv.org/abs/2106.09685
 Ref: https://huggingface.co/docs/diffusers/training/lora#lowrank-adaptation-of-large-language-models-lora
 
 Ref: Hutchinson, B., Ostendorf, M., & Fazel, M. (2011, September). Low Rank Language Models for Small Training Sets. IEEE Signal Processing Letters, 18(9), 489–492. https://doi.org/10.1109/lsp.2011.2160850
+
+-----------------
