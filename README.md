@@ -5,7 +5,8 @@ Vicuna is created by fine-tuning a LLaMA base model using approximately 70K user
 To find more about Vicuna here: https://lmsys.org/blog/2023-03-30-vicuna/
 
 #### To train a custom dataset on top of Vicuna if we don’t have good access to data-center grade GPU, is to fine-tune it through Lora.
-https://www.youtube.com/watch?v=Us5ZFp16PaU , https://arxiv.org/abs/2106.09685
+
+
 ---
 
 ### To RUN APP: https://huggingface.co/spaces/RinInori/vicuna_finetuned_6_sentiments
@@ -18,3 +19,4 @@ https://www.youtube.com/watch?v=Us5ZFp16PaU , https://arxiv.org/abs/2106.09685
 ![Image description](https://github.com/hennypurwadi/Bert_FineTune_Sentiment_Analysis/blob/main/images/SaveModel_Tokenizer_To_Huggingface.jpg?raw=true)
 ---
 
+Ref: https://www.youtube.com/watch?v=Us5ZFp16PaU , https://arxiv.org/abs/2106.09685
