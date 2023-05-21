@@ -24,6 +24,12 @@ It adds pairs of rank-decomposition weight matrices (called update matrices) to 
 ![Image description](https://github.com/hennypurwadi/Vicuna_finetune_sentiment_analysis/blob/main/vicuna_predict_result.jpg?raw=true)
 
 -----------------
+
+### instruction="Classify the text as one of these six different emotions: anger, fear, joy, love, sadness, or surprise.Response in lower-case and one word  only."
+###
+![Image description](https://github.com/hennypurwadi/Vicuna_finetune_sentiment_analysis/blob/main/result.jpg?raw=true)
+
+-----------------
 ### Model Hub: https://huggingface.co/RinInori/vicuna_finetuned_6_sentiments
 
 ![Image description](https://github.com/hennypurwadi/Bert_FineTune_Sentiment_Analysis/blob/main/images/SaveModel_Tokenizer_To_Huggingface.jpg?raw=true)
