@@ -21,7 +21,7 @@ It adds pairs of rank-decomposition weight matrices (called update matrices) to 
 
 -----------------
 
-![Image description](https://github.com/hennypurwadi/Vicuna_finetune_sentiment_analysis/blob/main/vicuna_result_correct.jpg?raw=true)
+![Image description](https://github.com/hennypurwadi/Vicuna_finetune_sentiment_analysis/blob/main/vicuna_predict_result.jpg?raw=true)
 
 -----------------
 ### Model Hub: https://huggingface.co/RinInori/vicuna_finetuned_6_sentiments
