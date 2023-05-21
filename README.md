@@ -25,8 +25,9 @@ It adds pairs of rank-decomposition weight matrices (called update matrices) to 
 
 -----------------
 
-### instruction="Classify the text as one of these six different emotions: anger, fear, joy, love, sadness, or surprise.Response in lower-case and one word  only."
-###
+### instruction="Classify the text as one of the emotions If it's not clear, choose the emotion that is closest to: joy,sadness,anger, fear, love, surprise."
+### Seems LLM doesn't like to follow the instruction:
+
 ![Image description](https://github.com/hennypurwadi/Vicuna_finetune_sentiment_analysis/blob/main/result.jpg?raw=true)
 
 -----------------
